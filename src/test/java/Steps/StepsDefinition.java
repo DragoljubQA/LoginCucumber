@@ -44,6 +44,7 @@ public class StepsDefinition {
 
     @Then("User is logged in")
     public void userIsLoggedIn() {
+
     }
 
 }
