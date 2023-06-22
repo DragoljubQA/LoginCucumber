@@ -18,6 +18,8 @@ public class LogoutPage extends StepsDefinition {
 
     public void clickOnLogoutButton() {
         LogoutButton.click();
+
+
     }
 
 }
